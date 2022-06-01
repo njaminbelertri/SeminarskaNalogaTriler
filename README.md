@@ -1,3 +1,6 @@
+(export/import datoteka za podatkovno bazo je v stisnjeni mapi)
+
+
 Za svojo seminarsko nalogo sem si izbral spletno stran za oddajo nepremicnin. Omogoca vec funkcij, kot so npr:
 -registracija
 -prijava
