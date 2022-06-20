@@ -1,3 +1,8 @@
+Vpisna številka:  35200048
+Ime: Benjamin
+Priimek: Triler
+
+
 (export/import datoteka za podatkovno bazo je v stisnjeni mapi)
 
 
